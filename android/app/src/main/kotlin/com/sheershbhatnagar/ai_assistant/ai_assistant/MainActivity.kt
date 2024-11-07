@@ -1,4 +1,4 @@
-package com.sheershbhatnagar.ai_assistant.ai_assistant
+package com.cynuxsolutions.ai_assistant
 
 import io.flutter.embedding.android.FlutterActivity
 

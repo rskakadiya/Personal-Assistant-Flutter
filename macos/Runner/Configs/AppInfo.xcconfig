@@ -8,7 +8,7 @@
 PRODUCT_NAME = ai_assistant
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.sheershbhatnagar.aiassistant.aiAssistant
+PRODUCT_BUNDLE_IDENTIFIER = com.cynuxsolutions.aiAssistant
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2023 com.sheershbhatnagar.ai_assistant. All rights reserved.

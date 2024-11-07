@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/SheershBhatnagar/AI-Assistant---Flutter/blob/master/assets/images/virtualAssistant.png)
+![Logo](https://github.com/rskakadiya/Personal-Assistant-Flutter/blob/master/assets/images/virtualAssistant.png)
 
 
 # Personal Assistant - Flutter
